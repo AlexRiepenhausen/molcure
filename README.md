@@ -1,6 +1,6 @@
 # Molcure Coding Interview
 As requested, I did a couple of example exercises on both ROSALIND and Projecteuler.
-My username on both websites is *AlexRiepenhausen*.
+My username on ROSALIND is *AlexRiepenhausen*. The username on Projecteuler is *alexRiepenhausen*.
 The links to both websites are provided down below:
 
 ROSALIND:     [http://rosalind.info/problems/list-view/](http://rosalind.info/problems/list-view/)
