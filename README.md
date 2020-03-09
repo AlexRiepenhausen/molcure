@@ -15,7 +15,8 @@ As for ROSALIND, the following problems were solved successfully:
 | Complementing a Strand of DNA     | rosalind/problem03 | [rosalind.info/problems/revc/](http://rosalind.info/problems/revc/) |
 | Mendel's First Law                | rosalind/problem04 | [rosalind.info/problems/iprb/](http://rosalind.info/problems/iprb/) |
 
-The actual data containing the DNA/RNA strings is located in rosalind/data
+All files are executable, standalone python scripts.
+The solutions to the problems have not been posted on this repository, but can be generated with the python sripts provided. Alternatively, the solutions can be provided upon request.
 
 As for Projecteuler, two problems were attempted, out of which one was solved successfully and a partial solution to the second one was achieved:
 | **Problem Name**                    | **Directory**          | **Link**                                                             |
